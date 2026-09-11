@@ -1,0 +1,18 @@
+# Compiled Java — build output does not belong in version control
+*.class
+*.jar
+target/
+build/
+out/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# OS
+.DS_Store
+Thumbs.db
